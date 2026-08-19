@@ -65,4 +65,4 @@ The dataset contains the following attributes:
 ## 🚀 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/loan-status-prediction.git](https://github.com/your-username/loan-status-prediction.git)
+   git clone https://github.com/shehroz7343-commits/Machine-Learning-Projects.git
